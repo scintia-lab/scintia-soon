@@ -1,0 +1,29 @@
+html {
+  margin: 0
+}
+
+body {
+  background-image: url(gradient-bg.png);
+  background-size: cover;
+  min-height: 100%;
+  padding: 10%;
+}
+
+img {
+  height: 7rem;
+}
+
+h1 {
+  font-family: sans-serif;
+  color: white;
+}
+
+a {
+  color: #dfe3ee;
+  text-decoration: none;
+  transition: .5s ease;
+}
+
+a:hover {
+  color: 	#8b9dc3;
+}
